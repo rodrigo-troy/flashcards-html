@@ -46,13 +46,13 @@ body {
     text-align: center;
 }
 
-.flip-card-front > p{
+.flip-card-front > p {
     display: block;
     width: 100%;
     padding: 0;
 }
 
-.flip-card-front > p > img{
+.flip-card-front > p > img {
     width: 80%;
 }
 
